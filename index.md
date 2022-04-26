@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Mochongdi/Mochongdi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mochongdi/Mochongdi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 求职简历
+### 姓名：莫崇迪
+### 性别：男
+### 民族：壮
+### 电话：18477223285
+### 邮箱：1185352232@qq.com
+### 学校地址：浙江省金华市兰溪市上华街道迎宾大道3388号浙江师范大学行知学院兰溪校区
+### 出生日期：1999-08-20
+### 教育经历
+- 浙江师范大学行知学院 
+- 网络空间安全 本科 工学院 
+- GAP:3.68/5.00 相关课程：UI设计（87）、网络安全产品及管理（91）、Python程序设计（88）、C/C++程序设计（85）、Web前端设计 （80）、面向对象程序设计（86）、数据库安全（80）
+### 技能/证书及其他
+- 技能： Word，ps软件，ai软件，文案撰写 
+- 证书/执照： 计算机一级，驾驶证，教师资格证，经济人证 
+- 语言： 英语（CET-4），韩语，日语 兴趣爱好： 唱歌，剪辑视频
+### 实习经历
+- 参加大学生志愿活动去支教
